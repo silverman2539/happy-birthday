@@ -1,0 +1,198 @@
+body
+{
+	font-size: 25;
+	padding: 25;
+	text-align: center;
+	background-color: #FBE2E7;
+	border-style: solid;
+	border-color: #6e0a1e;
+	color: #6e0a1e;
+}
+
+button
+{
+	width: 125;
+	height: 100;
+	border-style: solid;
+	font-size: 50;
+}
+.button1
+{
+	background: linear-gradient(to bottom, crimson 0%, #a50f2d 100%);
+	color: black;
+	border-color: black;
+}
+.button2
+{
+	background: linear-gradient(to bottom, #a50f2d 0%, #6e0a1e 100%);
+	color: #4d0715;
+	border-color: #4d0715;
+}
+.button3
+{
+	background: linear-gradient(to bottom, #6e0a1e 0%, #37050f 100%);
+	color: #8f0d27;
+	border-color: #8f0d27;
+}
+.button4
+{
+	background: linear-gradient(to bottom, #37050f 0%, black 100%);
+	color: crimson;
+	border-color: crimson;
+}
+button:hover
+{
+	opacity: 75%;
+	transition: 0.5s;
+}
+.back
+{
+	height: 30;
+	width: 60;
+	font-size: 20;
+	border-color: #6e0a1e; 
+	color: #6e0a1e;
+	background-color: #F6C4CE;
+}
+.stories:hover
+{
+	opacity: 50%;
+}
+.stories
+{
+	height: 40;
+	width: 80;
+	font-size: 25;
+	border-color: #6e0a1e; 
+	color: #6e0a1e;
+	background-color: #F6C4CE;
+}
+.back:hover
+{
+	opacity: 50%;
+}
+.next
+{
+	height: 25;
+	width: 50;
+	font-size: 15;
+	border-color: #6e0a1e; 
+	color: #6e0a1e;
+	background-color: #F6C4CE;
+}
+.next:hover
+{
+	opacity: 50%;
+}
+.restart
+{
+	height: 25;
+	width: 65;
+	font-size: 15;
+	border-color: #6e0a1e; 
+	color: #6e0a1e;
+	background-color: #F6C4CE;
+}
+.restart:hover
+{
+	opacity: 50%;
+}
+.play
+{
+	height: 25;
+	width: 45;
+	font-size: 15;
+	border-color: #6e0a1e; 
+	color: #6e0a1e;
+	background-color: #F6C4CE;
+}
+.play:hover
+{
+	opacity: 50%;
+}
+
+hr
+{
+	border-style: solid;
+	border-bottom: none;
+}
+.little
+{
+	width: 325;
+}
+
+.rainbow
+{
+	border-style: solid;
+	display: inline-block;
+	width: 500;
+	height: 300;
+	border-width: thin;
+	background: linear-gradient(to bottom, crimson 0%, tomato 20%, #DFC120 40%, limegreen 60%, royalblue 80%, mediumorchid 100%);
+}
+
+img
+{
+	border-style: solid;
+	border-width: thin;
+}
+.people
+{
+	height: 200;
+}
+.baby
+{
+	height: 200;
+}
+.meme
+{
+	height: 250;
+}
+.animal
+{
+	height: 200;
+}
+.drawing
+{
+	height: 400;
+	width: 300;
+}
+.story
+{
+	height: 150;
+	border: none;
+}
+
+.small
+{
+	font-size: 20;
+}
+#four
+{
+	width: 1000;
+	margin: auto;
+}
+
+embed
+{
+	border-style: solid;
+	border-width: thin;
+}
+.tiktok
+{
+	height: 480;
+	width: 270;
+}
+
+div
+{
+	border-style: solid;
+	border-width: thin;
+	border-color: #6e0a1e;
+	display: inline-block;
+	padding: 25;
+}
+.song
+{
+	padding-top: 0;
+}

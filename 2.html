@@ -1,0 +1,50 @@
+<html>
+	<head>
+		<title>Happy Birthday!</title>
+		<link href="style.css" rel="stylesheet">
+	</head>
+	
+	<body>
+		<p style="font-size:30;">2 Stories</p>
+		<hr>
+		
+		<button class="stories" id="start1" onclick="Start1()">Start</button>
+		<div id="story1" style="display:none;">
+			<img class="story" id="story-1a" src="scout.png">
+			<img class="story" id="story-1b" src="me.png" style="display:none;">
+			<p id="text-1a">Once upon a time there was a person named Scout.</p>
+			<p id="text-1b" style="display:none;">They were pretty cool!</p>
+			<p id="text-1c" style="display:none;">But they were all alone and sad...</p>
+			<p id="text-1d" style="display:none;">But then another person showed up!</p>
+			<p id="text-1e" style="display:none;">And they fell in love!</p>
+			<p id="text-1f" style="display:none;">The end!</p>
+			<button class="restart" onclick="Restart1()">Restart</button>
+			<button class="next" id="next1" onclick="Next1()">Next</button>
+		</div>
+		
+		
+		<br><br>
+		
+		
+		<button class="stories" id="start2" onclick="Start2()">Start</button>
+		<div id="story2" style="display:none;">
+			<img class="story" id="story-2b" src="fire.png" style="display:none;">
+			<img class="story" id="story-2a" src="dragon.png">
+			<img class="story" id="story-2c" src="scout.png" style="display:none;">
+			<p id="text-2a">Once upon a time there was a scary dragon!</p>
+			<p id="text-2b" style="display:none;">The dragon kept lighting stuff on fire!</p>
+			<p id="text-2c" style="display:none;">But then a person named Scout showed up!</p>
+			<p id="text-2d" style="display:none;">They went to fight the dragon and realized...</p>
+			<p id="text-2e" style="display:none;">...the dragon just wanted a friend!</p>
+			<p id="text-2f" style="display:none;">Then they were friends and everything was great!</p>
+			<p id="text-2g" style="display:none;">The end!</p>
+			<button class="restart" onclick="Restart2()">Restart</button>
+			<button class="next" id="next2" onclick="Next2()">Next</button>
+		</div>
+		
+		<br><br>
+		<button class="back" onclick="document.location = 'index.html'">Back</button>
+		
+		<script type="text/javascript" src="script.js"></script>
+	</body>
+</html>

@@ -121,7 +121,7 @@ hr
 	width: 325;
 }
 
-.gay
+#gay
 {
 	border-style: solid;
 	display: inline-block;
@@ -130,7 +130,7 @@ hr
 	border-width: thin;
 	background: linear-gradient(to bottom, crimson 0%, tomato 20%, #DFC120 40%, limegreen 60%, royalblue 80%, mediumorchid 100%);
 }
-.ace
+#ace
 {
 	border-style: solid;
 	display: inline-block;
@@ -139,7 +139,7 @@ hr
 	border-width: thin;
 	background: linear-gradient(to bottom, black 0%, dimgray 33%, white 67%, rebeccapurple 100%);
 }
-.trans
+#trans
 {
 	border-style: solid;
 	display: inline-block;

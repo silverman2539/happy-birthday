@@ -121,7 +121,7 @@ hr
 	width: 325;
 }
 
-.rainbow
+.gay
 {
 	border-style: solid;
 	display: inline-block;
@@ -129,6 +129,24 @@ hr
 	height: 300;
 	border-width: thin;
 	background: linear-gradient(to bottom, crimson 0%, tomato 20%, #DFC120 40%, limegreen 60%, royalblue 80%, mediumorchid 100%);
+}
+.ace
+{
+	border-style: solid;
+	display: inline-block;
+	width: 500;
+	height: 300;
+	border-width: thin;
+	background: linear-gradient(to bottom, black 0%, dimgray 33%, white 67%, rebeccapurple 100%);
+}
+.trans
+{
+	border-style: solid;
+	display: inline-block;
+	width: 500;
+	height: 300;
+	border-width: thin;
+	background: linear-gradient(to bottom, lightskyblue 0%, pink 25%, limegreen 50%, pink 75%, lightskyblue 100%);
 }
 
 img

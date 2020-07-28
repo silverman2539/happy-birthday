@@ -146,7 +146,7 @@ hr
 	width: 500;
 	height: 300;
 	border-width: thin;
-	background: linear-gradient(to bottom, lightskyblue 0%, pink 25%, limegreen 50%, pink 75%, lightskyblue 100%);
+	background: linear-gradient(to bottom, lightskyblue 0%, pink 25%, white 50%, pink 75%, lightskyblue 100%);
 }
 
 img
